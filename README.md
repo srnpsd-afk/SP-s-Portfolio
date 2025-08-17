@@ -1,4 +1,4 @@
-# SP-s-Portfolio
+# SQL Portfolio
 
 ## 📌 Project 1 : 🏥 Hospital Data Analytics Project
 
