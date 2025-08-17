@@ -7,6 +7,8 @@ It includes queries for extracting insights related to patients, doctors, treatm
 
 
 
+
+
 # SQL Portfolio
 
 ## 📌 Project 2 : 🦠 COVID-19 Data Analytics Project
@@ -16,6 +18,6 @@ It covers cases, deaths, recoveries, vaccinations, and trends across different r
 All SQL queries are included in SQLCovid.sql.
 
 ## 🛠️ Tools & Technologies
-Database: MySQL / PostgreSQL.
-Language: SQL.
-Analytics: COVID-19 case trends, death rates, and vaccination coverage.
+Database: MySQL / PostgreSQL
+Language: SQL
+Analytics: COVID-19 case trends, death rates, and vaccination coverage
