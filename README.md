@@ -2,7 +2,7 @@
 
 ## 📌 Project 1 : 🏥 Hospital Data Analytics Project
 
-This project analyzes hospital data using SQL queries.##
+This project analyzes hospital data using SQL queries.
 It includes queries for extracting insights related to patients, doctors, treatments, billing and hospital management.
 
 
@@ -16,6 +16,7 @@ It covers cases, deaths, recoveries, vaccinations, and trends across different r
 All SQL queries are included in SQLCovid.sql.
 
 ## 🛠️ Tools & Technologies
-Database: MySQL / PostgreSQL
-Language: SQL
-Analytics: COVID-19 case trends, death rates, and vaccination coverage
+
+*Database: MySQL / PostgreSQL
+*Language: SQL
+*Analytics: COVID-19 case trends, death rates, and vaccination coverage
