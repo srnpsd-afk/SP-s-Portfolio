@@ -11,7 +11,7 @@ It includes queries for extracting insights related to patients, doctors, treatm
 
 # SQL Portfolio
 
-## 📌 Project 2 : 🦠 COVID-19 Data Analytics Project
+## 📌 [Project 2 : 🦠 COVID-19 Data Analytics Project](https://github.com/srnpsd-afk/SQL-Portfolio/blob/main/SQLCovid19.sql)
 
 This project provides SQL-based data analysis on COVID-19 datasets.
 It covers cases, deaths, recoveries, vaccinations, and trends across different regions.
