@@ -27,8 +27,20 @@ Analytics: COVID-19 case trends, death rates, and vaccination coverage
 
 # SQL Portfolio
 
-## 📌 [Project 3 : 🏥 Housing Data Cleaning Project]([https://github.com/srnpsd-afk/SQL-Portfolio/blob/main/nashville.sql)
+## 📌 [Project 3 : 🏠 Housing Data Cleaning Project](https://github.com/srnpsd-afk/SQL-Portfolio/blob/main/nashville.sql)
 
 This project analyzes and cleans hospital data using SQL queries.
 In this project, we take raw housing data and transform it in SQL Server to make it
 more usable for further analysis.
+This project focuses on cleaning and preparing a housing dataset (Nashville housing data) using SQL. The raw dataset contained various issues such as missing values, inconsistent formats, duplicates, and unstructured fields.
+
+Key steps performed in this project include:
+
+Standardizing date formats for consistency.
+Populating missing property addresses using reliable references.
+Breaking down full addresses into separate columns (address, city, state).
+Normalizing categorical variables (e.g., converting Y/N to Yes/No).
+Removing duplicate records to ensure data accuracy.
+Dropping unused or redundant columns for a cleaner dataset.
+
+The final cleaned dataset is well-structured, accurate, and ready for further analysis or visualization.
