@@ -21,3 +21,14 @@ All SQL queries are included in SQLCovid.sql.
 Database: MySQL / PostgreSQL
 Language: SQL
 Analytics: COVID-19 case trends, death rates, and vaccination coverage
+
+
+
+
+# SQL Portfolio
+
+## 📌 [Project 3 : 🏥 Housing Data Cleaning Project](https://github.com/srnpsd-afk/SQL-Portfolio/blob/main/HOSPITAL.sql)
+
+This project analyzes and cleans hospital data using SQL queries.
+In this project, we take raw housing data and transform it in SQL Server to make it
+more usable for further analysis.
