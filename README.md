@@ -9,7 +9,6 @@ It includes queries for extracting insights related to patients, doctors, treatm
 
 
 
-# SQL Portfolio
 
 ## 📌 [Project 2 : 🦠 COVID-19 Data Analytics Project](https://github.com/srnpsd-afk/SQL-Portfolio/blob/main/SQLCovid19.sql)
 
@@ -25,7 +24,7 @@ Analytics: COVID-19 case trends, death rates, and vaccination coverage
 
 
 
-# SQL Portfolio
+
 
 ## 📌 [Project 3 : 🏠 Housing Data Cleaning Project](https://github.com/srnpsd-afk/SQL-Portfolio/blob/main/nashville.sql)
 
