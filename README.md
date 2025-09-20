@@ -27,7 +27,7 @@ Analytics: COVID-19 case trends, death rates, and vaccination coverage
 
 # SQL Portfolio
 
-## 📌 [Project 3 : 🏥 Housing Data Cleaning Project](https://github.com/srnpsd-afk/SQL-Portfolio/blob/main/HOSPITAL.sql)
+## 📌 [Project 3 : 🏥 Housing Data Cleaning Project]([https://github.com/srnpsd-afk/SQL-Portfolio/blob/main/nashville.sql)
 
 This project analyzes and cleans hospital data using SQL queries.
 In this project, we take raw housing data and transform it in SQL Server to make it
